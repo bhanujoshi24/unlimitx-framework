@@ -1,0 +1,2 @@
+[console_scripts]
+unlimitx = unlimitx.cli:cli
